@@ -1,4 +1,4 @@
-# Infx-Expression-Calculation
+# Infix-Expression-Calculation
 
 ## Description
 
